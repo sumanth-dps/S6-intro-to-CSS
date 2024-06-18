@@ -1,0 +1,292 @@
+#main {
+    font-family:cursive;
+    background-color: black;
+    color :aliceblue;
+    text-align: center;
+    font-size: 30px;
+    box-shadow: 10px 10px 10px gray;
+    border-radius: 10px;
+}
+#main:hover{
+    color: rgb(250, 72, 1);
+    background-color: chartreuse;
+    
+}
+
+#top {
+    font-family:'Times New Roman', Times, serif;
+    color: rgb(47, 19, 211);
+    background-color: rgb(16, 228, 235);
+    text-align: center;
+    font-size: 30px;
+    box-shadow: 10px 10px 10px gray;
+    border-radius: 10px;
+}
+#top:hover{
+    background-color: rgb(16, 51, 8);
+    color :rgb(87, 232, 58)
+}
+
+
+#prabhas{
+    height: 250px;
+    width: 155px;
+}
+#RC{
+    height: 250px;
+    width: 155px;
+}
+#MB{
+    height: 250px;
+    width: 155px;
+}
+#NTR{
+    height: 250px;
+    width: 155px;
+}
+#AA{
+    height: 250px;
+    width: 155px;
+}
+#PK{
+    height: 250px;
+    width: 155px;
+}
+#kalyan{
+    background-color: red;
+    color : rgb(2, 39, 73);
+    font-size: 20px;
+    font-family: cursive;
+}
+#prabha{
+    background-color:  rgb(147, 111, 18);
+    color : violet;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#charan{
+    background-color: rgb(60, 12, 81);
+    color : rgb(200, 75, 224);
+    font-size: 20px;
+}
+#mahesh{
+    background-color: rgb(43, 140, 231);
+    color : yellow;
+    font-size: 20px;
+}
+#tarak{
+    background-color: yellow;
+    color : rgb(20, 28, 82);
+    font-size: 20px;
+}
+#arjun{
+    background-color: rgb(79, 243, 9);
+    color : rgb(31, 69, 90);
+    font-size: 20px;
+}
+#power{
+    color :rgb(247, 56, 56)
+
+}
+#super{
+    color :skyblue
+
+}
+#rebel{
+    color:rgb(245, 140, 55)
+
+}
+#megapower{
+    color:blueviolet;
+
+}
+#icon{
+    color:rgb(108, 233, 36)
+
+}
+#tiger{
+    color:rgb(88, 98, 8);
+}
+
+#senior {
+    font-family: cursive;
+    color: rgb(227, 19, 130);
+    background-color: rgb(47, 198, 248);
+    text-align: center;
+    font-size: 30px;
+    box-shadow: 10px 10px 10px gray;
+    border-radius: 20px;
+
+}
+
+#senior:hover{
+    background-color: rgb(196, 242, 10);
+    color :rgb(184, 22, 238)
+}
+
+#chiru{
+    height: 250px;
+    width: 155px;
+}
+#king{
+    height: 250px;
+    width: 155px;
+}
+#nbk{
+    height: 250px;
+    width: 155px;
+}
+#ravi{
+    height: 250px;
+    width: 155px;
+}
+#venky{
+    height: 250px;
+    width: 155px;
+}
+#mega{
+    background-color: red;
+    color : rgb(2, 39, 73);
+    font-size: 20px;
+    font-family: cursive;
+}
+#venki{
+    background-color:  rgb(147, 111, 18);
+    color : violet;
+    font-size: 20px;
+}
+#mass{
+    background-color: rgb(60, 69, 25);
+    color : rgb(253, 6, 35);
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#nagarjuna{
+    background-color: rgb(43, 140, 231);
+    color : yellow;
+    font-size: 20px;
+}
+#balayya{
+    background-color: yellow;
+    color : rgb(20, 28, 82);
+    font-size: 20px;
+}
+#heros {
+    font-family: cursive;
+    color: rgb(191, 22, 238);
+    background-color: rgb(48, 4, 52);
+    text-align: center;
+    font-size: 30px;
+    box-shadow: 10px 10px 10px gray;
+    border-radius: 10px;
+}
+#heros:hover{
+    background-color: rgb(63, 5, 5);
+    color :rgb(252, 2, 2)
+}
+
+#nani{
+    height: 250px;
+    width: 155px;
+}
+#sharwa{
+    height: 250px;
+    width: 155px;
+}
+#ram{
+    height: 250px;
+    width: 155px;
+}
+#nc{
+    height: 250px;
+    width: 155px;
+}
+#nikhil{
+    height: 250px;
+    width: 155px;
+}
+#sesh{
+    height: 250px;
+    width: 155px;
+}
+#sai{
+    height: 250px;
+    width: 155px;
+}
+#tej{
+    background-color: red;
+    color : rgb(2, 39, 73);
+    font-size: 20px;
+}
+#energitic{
+    background-color:  rgb(147, 111, 18);
+    color : violet;
+    font-size: 20px;
+}
+#natural{
+    background-color: rgb(103, 18, 8);
+    color : rgb(253, 6, 35);
+    font-size: 20px;
+    font-family:'Times New Roman', Times, serif;
+}
+#major{
+    background-color: rgb(43, 140, 231);
+    color : yellow;
+    font-size: 20px;
+}
+#karthikeya{
+    background-color: yellow;
+    color : rgb(20, 28, 82);
+    font-size: 20px;
+}
+#s{
+    background-color: rgb(79, 243, 9);
+    color : rgb(31, 69, 90);
+    font-size: 20px;
+}
+#samrat{
+    background-color: rgb(16, 51, 8);
+    color :rgb(87, 232, 58);
+    font-size: 20px;
+}
+#nanii{
+    color :rgb(247, 56, 56)
+
+}
+#aa{
+    color :skyblue
+
+}
+#rapo{
+    color:rgb(245, 140, 55)
+
+}
+#ss{
+    color:blueviolet;
+
+}
+#icon{
+    color:rgb(108, 233, 36)
+
+}
+#nn{
+    color:rgb(71, 80, 3);
+}
+#chai{
+    color:rgb(19, 65, 29)
+}
+#tejj{
+    color:brown
+}
+
+
+
+
+#body{
+    background-color: rgb(70, 135, 134);
+}
+
+
+
+
+
